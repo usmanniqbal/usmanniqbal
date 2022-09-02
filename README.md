@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @usmanniqbal
-- 👀 I’m interested in anything unless its not **boring**
+- 👀 I’m interested in anything that is **exciting**
 - 🌱 I’m currently learning **react and ionic**
 - 💞️ I’m looking to collaborate on **Blockchain**
 - 📫 How to reach me? Just drop a message here https://www.linkedin.com/in/usmanniqbal/
