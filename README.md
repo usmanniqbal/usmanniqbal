@@ -4,7 +4,7 @@
 
 🌱 Currently, I'm diving into the realms of React and Ionic to expand my skills further.
 
-💼 I’m eager to collaborate on projects related to AI and Blockchain, where I can contribute my expertise and learn from others in the field.
+💼 I’m eager to collaborate on projects related to AI and Blockchain.
 
 📫 Interested in connecting? Feel free to drop me a message on LinkedIn: [linkedin.com/in/usmanniqbal](https://www.linkedin.com/in/usmanniqbal/)
 
